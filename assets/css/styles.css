@@ -1,0 +1,29 @@
+header{
+	font-family: 'Ariel Black', helvetica, Sans-serif;
+	font-weight: bold;
+	font-size: 32pt;
+	height: 80px;
+	border-bottom: solid #DDDDDD 2px;
+	margin: 0px 35px 0px 35px;
+}
+body{
+	background-color: #ffffff;
+	padding: 0;
+	margin: 0;
+	min-height: 0px;
+}
+#title {
+	margin-top: 20px;
+	float: left;
+}
+.links a{
+	float: right;
+	font-size: 14pt;
+	color: #000000;
+	text-decoration: none;
+	margin: 0px 10px 0px 10px;
+}
+body p {
+	margin-left: 35px;
+	color: #444444;
+}
